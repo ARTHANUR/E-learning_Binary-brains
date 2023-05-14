@@ -1,7 +1,5 @@
 # Binary Brains E-learning Platform
 
-![Binary Brains Logo](logo.png)
-
 Binary Brains is a comprehensive E-learning platform designed to revolutionize online education. It provides an interactive and engaging learning experience for students and instructors alike. This README file provides an overview of the Binary Brains platform and outlines the installation and setup process.
 
 ## Table of Contents
@@ -11,7 +9,7 @@ Binary Brains is a comprehensive E-learning platform designed to revolutionize o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -65,6 +63,5 @@ We welcome contributions to enhance the Binary Brains platform. To contribute, f
 4. Push the changes to your branch.
 5. Submit a pull request detailing your changes.
 
-## License
-
-The Binary Brains E-learning Platform is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the platform under the terms of the license.
+# Video walkthrough :
+See the video walkthrough of the project [Here](https://www.linkedin.com/posts/shashank-arthanur_elearningplatform-binarybrains-webdevelopment-activity-7062446282463744000-6V8Q?utm_source=share&utm_medium=member_desktop) 
