@@ -65,3 +65,11 @@ We welcome contributions to enhance the Binary Brains platform. To contribute, f
 
 # Video walkthrough :
 See the video walkthrough of the project [Here](https://www.linkedin.com/posts/shashank-arthanur_elearningplatform-binarybrains-webdevelopment-activity-7062446282463744000-6V8Q?utm_source=share&utm_medium=member_desktop) 
+
+# Desktop view :
+
+![image]( https://res.cloudinary.com/dboa7dqkl/image/upload/v1683825230/Binary%20Brains/Screenshot_2023-05-11_224030_psttqd.png )
+![image]( https://res.cloudinary.com/dboa7dqkl/image/upload/v1683825242/Binary%20Brains/Screenshot_2023-05-11_224058_onbgnj.png )
+![image]( https://res.cloudinary.com/dboa7dqkl/image/upload/v1683825239/Binary%20Brains/Screenshot_2023-05-11_224154_bgibdc.png )
+![image]( https://res.cloudinary.com/dboa7dqkl/image/upload/v1683825241/Binary%20Brains/Screenshot_2023-05-11_224217_mrfdgk.png )
+
